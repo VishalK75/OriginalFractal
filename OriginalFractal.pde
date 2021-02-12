@@ -1,7 +1,6 @@
 public void setup(){
   size(500,500);
   background(255, 102, 102);
-  //fill(124, 191, 42);
   stroke(255, 255, 255);
 }
 
